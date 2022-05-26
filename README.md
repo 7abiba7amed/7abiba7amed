@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7abiba7amed
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning database
+- 🌱 I’m currently learning back-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
